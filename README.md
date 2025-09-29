@@ -5,6 +5,8 @@
 [![Youtube 3d Showcase](https://i.postimg.cc/jqpKnJ1V/thum.png)](https://www.youtube.com/watch?v=Y9GhI9Rv2qU)
 [👆🏼 YouTube](https://www.youtube.com/watch?v=Y9GhI9Rv2qU)
 
+[Preview](https://mobile-showcase-3d.vercel.app)
+
 ## Techs
 
 <table>
